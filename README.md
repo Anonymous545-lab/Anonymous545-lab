@@ -14,8 +14,6 @@ I'm actively learning from sites like TryHackMe, ProgrammingHub, Alison Courses,
 <br>
 I occasionally build annoying or fun websites as a hobby and I have contributed to building websites for companies which include companies like Rawview or for my family's logistics business, which is still growing.
 <br>
-
-Whats Funny is I Hacked into my school's data records with my neighbours windows 8 laptop my personal best in less than 3 minutes with tools installed within the 2 minutes and actively being able to retrive a Record containing pass marks for students at my institution. **Note it is and always will be for EDUCATIONAL PURPOSES ONLY.
 <br>
 <br>
 ## My Main ethical accoumplice:
