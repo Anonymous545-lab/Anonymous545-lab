@@ -12,7 +12,7 @@ I practice or I try to practice my skills in Coding and Cyber Security through v
 <br>
 I'm actively learning from sites like TryHackMe, ProgrammingHub, Alison Courses, etc.
 <br>
-I occasionally build annoying or fun websites as a hobby and I have contributed to building websites for companies which include companies like Rawview or for my family's logistics business, which is still growing.
+I occasionally build annoying or fun websites as a hobby.
 <br>
 <br>
 <br>
