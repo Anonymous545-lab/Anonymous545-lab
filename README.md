@@ -8,7 +8,7 @@
  I'm a teenager based in Cape Town suburbs, South Africa, I am currently in high school with a strong passion for Coding, Cyber Security and Web development. Here's a little more about me:
  <br>
 
-I practice or I try to practice my skills in Coding and Cyber Security through various courses, focusing on ethical hacking. I'm am enthusiastic and passionate for everythign to do with computers as I did not always have access to one. I try to maintain consistentcy with my skills whilst balancing my life after all I dream big.
+I practice or I try to practice my skills in Coding and Cyber Security through various courses, focusing on ethical hacking. I'm am enthusiastic and passionate for everythign to do with computers. I try to maintain consistentcy with my skills whilst balancing my life after all I dream big.
 <br>
 I'm actively learning from sites like TryHackMe, ProgrammingHub, Alison Courses, etc.
 <br>
